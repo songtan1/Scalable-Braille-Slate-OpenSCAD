@@ -12,7 +12,7 @@ There are two braille types - 6 dot braille (2 column * 3 row) and 8 dot braille
 
 7 8
 
-The braille specification defines its size with 5 % tolerance. There are three types in use - Basic, Compressed (95%), and Jumbo dot (125%). Basic uses 1.6 mm dot with 2.4 mm dot spacing. The 95% compressed one is commonly used for reading materials. The cell spacing is further reduced to put more characters in a line. Jumbo dot uses the same basic dot size with 125% dot spacing. It is used for the signage, etc., for considering people with less dexterity.
+The braille specification defines its size with 5 % tolerance. There are three types in use - Basic, Compressed (95%), and Jumbo dot (125%). Basic uses 1.6 mm dot with 2.4 mm dot spacing. The 95% compressed one is commonly used for reading materials. The cell spacing is further reduced to put more characters in a line. Jumbo dot uses the same basic dot size with 125% dot spacing. It is used for the signage, etc., with the consideration of people with less dexterity.
 
 Type ________ Basic Compressed Jumbo Remark
 
